@@ -1,6 +1,14 @@
 # Created by https://www.toptal.com/developers/gitignore/api/visualstudiocode,windows,cuda,c++,git
 # Edit at https://www.toptal.com/developers/gitignore?templates=visualstudiocode,windows,cuda,c++,git
 
+*.asc
+*.rar
+
+kp/res/
+kp/res_png/
+kp/raytracer
+kp/config.txt
+
 ### C++ ###
 # Prerequisites
 *.d
