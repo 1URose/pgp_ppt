@@ -67,7 +67,7 @@ namespace cfg {
 
     static const Config CFG = {
         // frames
-        120,
+        240,
         "res/%d.data",
         800, 400,
         90.0,
